@@ -3,7 +3,7 @@ title: "Long Range remote controller"
 github: "(https://github.com/leg1231/Long-Range-remote-Controller/edit/main/JOURNAL.md)"
 description: "LoRa transmitter for future rc projects"
 created_at: "2026-11-6"
-total_time: "1h"
+total_time: "3h"
 ---
 ## November 6, 2026: <Starting the Process+Research>
 
@@ -15,4 +15,4 @@ total_time: "1h"
 
 
 
-**Total time spent: 1h**
+**Total time spent: 3h**
